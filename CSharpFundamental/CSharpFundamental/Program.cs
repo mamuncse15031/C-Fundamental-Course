@@ -14,10 +14,13 @@ namespace CSharpFundamental
 
             var calculator = new Calculator();
             var result = calculator.Add(1, 2);
-            Console.WriteLine(result); */
+            Console.WriteLine(result);
 
             var array = new ArrayCs();
-            array.Array();
+            array.Array(); */
+
+            var strinng = new Stringg();
+            strinng.Strinngg();
 
         }
         
