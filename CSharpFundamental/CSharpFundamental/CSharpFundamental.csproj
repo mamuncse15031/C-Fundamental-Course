@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Array,cs.cs" />
     <Compile Include="Math\Calculator.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
