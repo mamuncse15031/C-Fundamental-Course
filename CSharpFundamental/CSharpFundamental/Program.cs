@@ -17,10 +17,14 @@ namespace CSharpFundamental
             Console.WriteLine(result);
 
             var array = new ArrayCs();
-            array.Array(); */
+            array.Array(); 
 
             var strinng = new Stringg();
-            strinng.Strinngg();
+            strinng.Strinngg();  */
+
+            var ennum = new Enum();
+            ennum.Ennum();
+
 
         }
         
