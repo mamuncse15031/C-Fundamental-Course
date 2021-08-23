@@ -6,7 +6,7 @@ namespace CSharpFundamental
     {
         RegularAirMAil = 1,
         RegisteredAirMail = 2,
-        Express = 3
+        Express = 3,
     }
     public class Enum
     {
@@ -17,6 +17,7 @@ namespace CSharpFundamental
 
             var methodId = 2;
             Console.WriteLine((ShippingMethod)methodId);
+
         }
     }
 }
