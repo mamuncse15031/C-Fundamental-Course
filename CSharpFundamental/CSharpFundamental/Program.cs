@@ -20,10 +20,13 @@ namespace CSharpFundamental
             array.Array(); 
 
             var strinng = new Stringg();
-            strinng.Strinngg();  */
+            strinng.Strinngg();  
 
             var ennum = new Enum();
-            ennum.Ennum();
+            ennum.Ennum(); */
+
+            var arrays2 = new Array2();
+            arrays2.Arrray2();
 
 
         }
