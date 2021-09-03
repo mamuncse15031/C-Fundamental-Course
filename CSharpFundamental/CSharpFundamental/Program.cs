@@ -26,10 +26,13 @@ namespace CSharpFundamental
             ennum.Ennum(); 
 
             var arrays2 = new Array2();
-            arrays2.Arrray2();*/
+            arrays2.Arrray2();
 
             var lists = new Lists();
-            lists.Listss();
+            lists.Listss();*/
+
+            var date = new DateAndTime();
+            date.TimeDate();
 
 
         }

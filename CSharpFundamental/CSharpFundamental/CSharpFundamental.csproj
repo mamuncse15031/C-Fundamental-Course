@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="Array,cs.cs" />
     <Compile Include="Array2.cs" />
+    <Compile Include="dateAndTime.cs" />
     <Compile Include="Enum.cs" />
     <Compile Include="Lists.cs" />
     <Compile Include="Math\Calculator.cs" />
