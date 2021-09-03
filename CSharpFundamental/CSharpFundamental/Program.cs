@@ -23,10 +23,13 @@ namespace CSharpFundamental
             strinng.Strinngg();  
 
             var ennum = new Enum();
-            ennum.Ennum(); */
+            ennum.Ennum(); 
 
             var arrays2 = new Array2();
-            arrays2.Arrray2();
+            arrays2.Arrray2();*/
+
+            var lists = new Lists();
+            lists.Listss();
 
 
         }
