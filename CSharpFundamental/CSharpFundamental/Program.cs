@@ -1,7 +1,4 @@
-﻿using System;
-using CSharpFundamental.Math;
-
-namespace CSharpFundamental
+﻿namespace CSharpFundamental
 {
     class Program
     {
