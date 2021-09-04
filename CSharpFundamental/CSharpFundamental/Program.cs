@@ -26,10 +26,13 @@
             arrays2.Arrray2();
 
             var lists = new Lists();
-            lists.Listss();*/
+            lists.Listss();
 
             var date = new DateAndTime();
-            date.TimeDate();
+            date.TimeDate();*/
+
+            var string2 = new LearnString();
+            string2.String2();
 
 
         }
